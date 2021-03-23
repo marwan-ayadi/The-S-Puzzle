@@ -1,2 +1,2 @@
-# The-8-Puzzle
-Assignment2: The 8-Puzzle
+# The-S-Puzzle
+Assignment2: The S-Puzzle
