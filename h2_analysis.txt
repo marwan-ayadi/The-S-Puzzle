@@ -4,7 +4,7 @@ heuristic: 			 h2
 start puzzle: 			 ((5, 2, 8), (6, 1, 3), (7, 4, 9))
 Length of Solution Path: 	 7
 Length of Search Path: 		 24
-Excution time (s): 			 0.007033109664916992
+Excution time (s): 			 0.020914554595947266
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -12,7 +12,7 @@ heuristic: 			 h2
 start puzzle: 			 ((4, 1, 3), (9, 6, 5), (8, 7, 2))
 Length of Solution Path: 	 10
 Length of Search Path: 		 530
-Excution time (s): 			 1.6625802516937256
+Excution time (s): 			 2.0877370834350586
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -20,7 +20,7 @@ heuristic: 			 h2
 start puzzle: 			 ((5, 6, 1), (7, 2, 8), (3, 9, 4))
 Length of Solution Path: 	 11
 Length of Search Path: 		 661
-Excution time (s): 			 2.1010401248931885
+Excution time (s): 			 2.9433236122131348
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -28,7 +28,7 @@ heuristic: 			 h2
 start puzzle: 			 ((7, 5, 8), (4, 1, 2), (6, 3, 9))
 Length of Solution Path: 	 10
 Length of Search Path: 		 1024
-Excution time (s): 			 1.4942538738250732
+Excution time (s): 			 2.114023208618164
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -36,7 +36,7 @@ heuristic: 			 h2
 start puzzle: 			 ((4, 1, 8), (2, 5, 9), (7, 6, 3))
 Length of Solution Path: 	 8
 Length of Search Path: 		 41
-Excution time (s): 			 0.02100086212158203
+Excution time (s): 			 0.05348491668701172
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -44,7 +44,7 @@ heuristic: 			 h2
 start puzzle: 			 ((1, 2, 6), (4, 3, 7), (5, 8, 9))
 Length of Solution Path: 	 6
 Length of Search Path: 		 16
-Excution time (s): 			 0.00299835205078125
+Excution time (s): 			 0.007069826126098633
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -52,7 +52,7 @@ heuristic: 			 h2
 start puzzle: 			 ((9, 8, 2), (4, 1, 7), (3, 5, 6))
 Length of Solution Path: 	 12
 Length of Search Path: 		 1757
-Excution time (s): 			 8.392611026763916
+Excution time (s): 			 14.52218747138977
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -60,7 +60,7 @@ heuristic: 			 h2
 start puzzle: 			 ((9, 2, 7), (1, 6, 4), (8, 3, 5))
 Length of Solution Path: 	 11
 Length of Search Path: 		 705
-Excution time (s): 			 1.420588731765747
+Excution time (s): 			 2.447293519973755
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -74,7 +74,7 @@ heuristic: 			 h2
 start puzzle: 			 ((4, 9, 7), (2, 6, 8), (1, 3, 5))
 Length of Solution Path: 	 11
 Length of Search Path: 		 3291
-Excution time (s): 			 31.401680946350098
+Excution time (s): 			 44.05254793167114
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -88,7 +88,7 @@ heuristic: 			 h2
 start puzzle: 			 ((4, 9, 6), (3, 2, 7), (1, 5, 8))
 Length of Solution Path: 	 10
 Length of Search Path: 		 426
-Excution time (s): 			 0.8351318836212158
+Excution time (s): 			 1.176302433013916
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -96,7 +96,7 @@ heuristic: 			 h2
 start puzzle: 			 ((8, 3, 1), (6, 5, 4), (7, 2, 9))
 Length of Solution Path: 	 9
 Length of Search Path: 		 192
-Excution time (s): 			 0.19102144241333008
+Excution time (s): 			 0.39036083221435547
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -104,7 +104,7 @@ heuristic: 			 h2
 start puzzle: 			 ((9, 5, 1), (2, 8, 4), (7, 6, 3))
 Length of Solution Path: 	 11
 Length of Search Path: 		 1293
-Excution time (s): 			 3.730908155441284
+Excution time (s): 			 5.998154878616333
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -112,7 +112,7 @@ heuristic: 			 h2
 start puzzle: 			 ((7, 5, 9), (4, 3, 6), (8, 2, 1))
 Length of Solution Path: 	 11
 Length of Search Path: 		 912
-Excution time (s): 			 2.765850782394409
+Excution time (s): 			 3.8617379665374756
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -120,7 +120,7 @@ heuristic: 			 h2
 start puzzle: 			 ((4, 7, 3), (6, 9, 5), (8, 2, 1))
 Length of Solution Path: 	 9
 Length of Search Path: 		 497
-Excution time (s): 			 0.5551614761352539
+Excution time (s): 			 1.2774133682250977
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -128,7 +128,7 @@ heuristic: 			 h2
 start puzzle: 			 ((9, 4, 2), (8, 3, 5), (6, 1, 7))
 Length of Solution Path: 	 11
 Length of Search Path: 		 1308
-Excution time (s): 			 4.4198760986328125
+Excution time (s): 			 9.244039297103882
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -136,7 +136,7 @@ heuristic: 			 h2
 start puzzle: 			 ((7, 8, 3), (2, 5, 9), (6, 1, 4))
 Length of Solution Path: 	 11
 Length of Search Path: 		 1007
-Excution time (s): 			 4.108611345291138
+Excution time (s): 			 5.613928556442261
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -150,5 +150,5 @@ heuristic: 			 h2
 start puzzle: 			 ((3, 7, 8), (6, 9, 4), (1, 5, 2))
 Length of Solution Path: 	 12
 Length of Search Path: 		 2468
-Excution time (s): 			 5.83069372177124
+Excution time (s): 			 11.440720081329346
 Optimality 			 IS OPTIMAL 

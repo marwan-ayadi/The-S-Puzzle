@@ -4,7 +4,7 @@ heuristic: 			 h1
 start puzzle: 			 ((5, 2, 8), (6, 1, 3), (7, 4, 9))
 Length of Solution Path: 	 7
 Length of Search Path: 		 11
-Excution time (s): 			 0.0029997825622558594
+Excution time (s): 			 0.007999181747436523
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -12,7 +12,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 1, 3), (9, 6, 5), (8, 7, 2))
 Length of Solution Path: 	 10
 Length of Search Path: 		 569
-Excution time (s): 			 0.4050135612487793
+Excution time (s): 			 0.6393003463745117
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -20,7 +20,7 @@ heuristic: 			 h1
 start puzzle: 			 ((5, 6, 1), (7, 2, 8), (3, 9, 4))
 Length of Solution Path: 	 11
 Length of Search Path: 		 222
-Excution time (s): 			 0.23100066184997559
+Excution time (s): 			 0.32531309127807617
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -28,7 +28,7 @@ heuristic: 			 h1
 start puzzle: 			 ((7, 5, 8), (4, 1, 2), (6, 3, 9))
 Length of Solution Path: 	 10
 Length of Search Path: 		 77
-Excution time (s): 			 0.025016069412231445
+Excution time (s): 			 0.04003548622131348
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -36,7 +36,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 1, 8), (2, 5, 9), (7, 6, 3))
 Length of Solution Path: 	 8
 Length of Search Path: 		 32
-Excution time (s): 			 0.0070192813873291016
+Excution time (s): 			 0.012007951736450195
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -44,7 +44,7 @@ heuristic: 			 h1
 start puzzle: 			 ((1, 2, 6), (4, 3, 7), (5, 8, 9))
 Length of Solution Path: 	 6
 Length of Search Path: 		 15
-Excution time (s): 			 0.0029973983764648438
+Excution time (s): 			 0.006031036376953125
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -52,7 +52,7 @@ heuristic: 			 h1
 start puzzle: 			 ((9, 8, 2), (4, 1, 7), (3, 5, 6))
 Length of Solution Path: 	 12
 Length of Search Path: 		 579
-Excution time (s): 			 0.8641705513000488
+Excution time (s): 			 2.017235279083252
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -60,7 +60,7 @@ heuristic: 			 h1
 start puzzle: 			 ((9, 2, 7), (1, 6, 4), (8, 3, 5))
 Length of Solution Path: 	 11
 Length of Search Path: 		 49
-Excution time (s): 			 0.012999534606933594
+Excution time (s): 			 0.03237295150756836
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -68,7 +68,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 9, 8), (5, 6, 7), (3, 2, 1))
 Length of Solution Path: 	 13
 Length of Search Path: 		 286
-Excution time (s): 			 0.09701108932495117
+Excution time (s): 			 0.20011520385742188
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -76,7 +76,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 9, 7), (2, 6, 8), (1, 3, 5))
 Length of Solution Path: 	 11
 Length of Search Path: 		 78
-Excution time (s): 			 0.027035236358642578
+Excution time (s): 			 0.055170536041259766
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -84,7 +84,7 @@ heuristic: 			 h1
 start puzzle: 			 ((3, 9, 7), (6, 8, 1), (4, 5, 2))
 Length of Solution Path: 	 13
 Length of Search Path: 		 1565
-Excution time (s): 			 3.5643198490142822
+Excution time (s): 			 4.976146459579468
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -92,7 +92,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 9, 6), (3, 2, 7), (1, 5, 8))
 Length of Solution Path: 	 10
 Length of Search Path: 		 96
-Excution time (s): 			 0.027994871139526367
+Excution time (s): 			 0.05200505256652832
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -100,7 +100,7 @@ heuristic: 			 h1
 start puzzle: 			 ((8, 3, 1), (6, 5, 4), (7, 2, 9))
 Length of Solution Path: 	 9
 Length of Search Path: 		 70
-Excution time (s): 			 0.026000499725341797
+Excution time (s): 			 0.0461583137512207
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -108,7 +108,7 @@ heuristic: 			 h1
 start puzzle: 			 ((9, 5, 1), (2, 8, 4), (7, 6, 3))
 Length of Solution Path: 	 11
 Length of Search Path: 		 390
-Excution time (s): 			 0.2050318717956543
+Excution time (s): 			 0.37752509117126465
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -116,7 +116,7 @@ heuristic: 			 h1
 start puzzle: 			 ((7, 5, 9), (4, 3, 6), (8, 2, 1))
 Length of Solution Path: 	 11
 Length of Search Path: 		 466
-Excution time (s): 			 0.4296290874481201
+Excution time (s): 			 0.6146621704101562
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -124,7 +124,7 @@ heuristic: 			 h1
 start puzzle: 			 ((4, 7, 3), (6, 9, 5), (8, 2, 1))
 Length of Solution Path: 	 9
 Length of Search Path: 		 23
-Excution time (s): 			 0.007986307144165039
+Excution time (s): 			 0.013216495513916016
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -132,7 +132,7 @@ heuristic: 			 h1
 start puzzle: 			 ((9, 4, 2), (8, 3, 5), (6, 1, 7))
 Length of Solution Path: 	 11
 Length of Search Path: 		 116
-Excution time (s): 			 0.0320591926574707
+Excution time (s): 			 0.08066487312316895
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -140,7 +140,7 @@ heuristic: 			 h1
 start puzzle: 			 ((7, 8, 3), (2, 5, 9), (6, 1, 4))
 Length of Solution Path: 	 11
 Length of Search Path: 		 552
-Excution time (s): 			 0.8390824794769287
+Excution time (s): 			 1.1292016506195068
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -148,7 +148,7 @@ heuristic: 			 h1
 start puzzle: 			 ((9, 7, 6), (3, 5, 4), (1, 2, 8))
 Length of Solution Path: 	 11
 Length of Search Path: 		 150
-Excution time (s): 			 0.060997962951660156
+Excution time (s): 			 0.1105489730834961
 Optimality 			 IS OPTIMAL 
 
 ========================================
@@ -156,5 +156,5 @@ heuristic: 			 h1
 start puzzle: 			 ((3, 7, 8), (6, 9, 4), (1, 5, 2))
 Length of Solution Path: 	 12
 Length of Search Path: 		 116
-Excution time (s): 			 0.09811687469482422
+Excution time (s): 			 0.19416165351867676
 Optimality 			 IS OPTIMAL 

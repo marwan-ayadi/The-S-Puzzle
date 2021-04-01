@@ -138,13 +138,17 @@ def a_star(start_puzzle: list, target_puzzle: list , n, heuristic):
 
     open_list.put(start_node)
     start_time = time.time()
-
+    search_space = []
     while not open_list.empty():
-        search_space = []
+        
         current_node =open_list.get()                                   
         closed_list[tuple(current_node.state)] = current_node
         search_space.append(current_node.state)
         if current_node == end_node:
+            d = open(f"solutions/{heuristic}_search_path.txt", "a")
+            for s in search_space:
+                d.write(f"{list_to_tuple_of_n_tuples(s,n)}\n")
+            d.close()
             total_time = time.time() - start_time
             solution_path = []
             c= current_node
