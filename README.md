@@ -1,5 +1,9 @@
 # The-S-Puzzle
 Assignment2: The S-Puzzle
+### Authors
+[Marwan Ayadi](https://github.com/marwan-ayadi) (40039895) - 
+[Raffi Alan Bezirjian](https://github.com/raffialan) (29538690) - 
+[Sameh Heinen](https://github.com/SamehGeorgeHeinen) (27073410) - 
 
 DFS and iterative 
 
